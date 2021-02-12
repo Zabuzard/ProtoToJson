@@ -45,7 +45,8 @@ Such descriptor files `foo.desc` can be obtained by executing
 protoc --descriptor_set_out foo.desc foo.proto
 ```
 on the protobuf schema `foo.proto`. However, this requires
-the [protobuf compiler protoc](https://developers.google.com/protocol-buffers) to be installed.
+the [protobuf compiler protoc](https://developers.google.com/protocol-buffers)
+to be installed.
 
 # Developer API
 
