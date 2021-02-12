@@ -1,8 +1,7 @@
-package de.zabuza.prototojson.pub.api;
+package io.github.zabuzard.prototojson.api;
 
 import com.google.protobuf.InvalidProtocolBufferException;
 
-import java.io.Serial;
 import java.util.Objects;
 
 /**
@@ -13,7 +12,7 @@ import java.util.Objects;
  */
 @SuppressWarnings("SerializableHasSerializationMethods")
 final class UncheckedInvalidProtocolBufferException extends RuntimeException {
-	@Serial
+
 	private static final long serialVersionUID = 4733167503348537421L;
 
 	/**

@@ -1,4 +1,4 @@
-package de.zabuza.prototojson.pub.api;
+package io.github.zabuzard.prototojson.api;
 
 import com.google.protobuf.DescriptorProtos;
 import com.google.protobuf.Descriptors;

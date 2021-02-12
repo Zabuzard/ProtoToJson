@@ -1,8 +1,7 @@
-package de.zabuza.prototojson.pub.api;
+package io.github.zabuzard.prototojson.api;
 
 import com.google.protobuf.Descriptors;
 
-import java.io.Serial;
 import java.util.Objects;
 
 /**
@@ -13,7 +12,7 @@ import java.util.Objects;
  */
 @SuppressWarnings("SerializableHasSerializationMethods")
 final class UncheckedDescriptorValidationException extends RuntimeException {
-	@Serial
+
 	private static final long serialVersionUID = -7092503313047011977L;
 
 	/**

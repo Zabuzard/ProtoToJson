@@ -1,4 +1,4 @@
-package de.zabuza.prototojson.pub.api;
+package io.github.zabuzard.prototojson.api;
 
 import com.google.protobuf.Descriptors;
 import com.google.protobuf.DynamicMessage;

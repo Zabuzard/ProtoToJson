@@ -1,16 +1,14 @@
-package de.zabuza.prototojson.pub.api;
-
-import java.io.Serial;
+package io.github.zabuzard.prototojson.api;
 
 /**
- * Thrown when no suitable protobuf descriptor could be found in the {@link de.zabuza.prototojson.pub.api.DescriptorCache}
+ * Thrown when no suitable protobuf descriptor could be found in the {@link DescriptorCache}
  * in order to decode the given binary protobuf message.
  *
  * @author Daniel Tischner {@literal <zabuza.dev@gmail.com>}
  */
 @SuppressWarnings("SerializableHasSerializationMethods")
 public final class NoDescriptorFoundException extends RuntimeException {
-	@Serial
+
 	private static final long serialVersionUID = -5797106115993481443L;
 
 	/**

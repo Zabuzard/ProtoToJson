@@ -1,8 +1,8 @@
-package de.zabuza.prototojson.pub.app;
+package io.github.zabuzard.prototojson.app;
 
-import de.zabuza.prototojson.pub.api.DescriptorCache;
-import de.zabuza.prototojson.pub.api.NoDescriptorFoundException;
-import de.zabuza.prototojson.pub.api.ProtoToJson;
+import io.github.zabuzard.prototojson.api.DescriptorCache;
+import io.github.zabuzard.prototojson.api.NoDescriptorFoundException;
+import io.github.zabuzard.prototojson.api.ProtoToJson;
 import org.fife.ui.rsyntaxtextarea.RSyntaxTextArea;
 import org.fife.ui.rsyntaxtextarea.SyntaxConstants;
 import org.fife.ui.rtextarea.RTextScrollPane;
