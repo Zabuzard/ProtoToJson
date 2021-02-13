@@ -1,5 +1,9 @@
 # ProtoToJson
-[![maven-central](https://img.shields.io/maven-central/v/io.github.zabuzard.prototojson/prototojson)](https://img.shields.io/maven-central/v/io.github.zabuzard.prototojson/prototojson) [![javadoc](https://javadoc.io/badge2/io.github.zabuzard.prototojson/prototojson/javadoc.svg?style=flat)](https://javadoc.io/doc/io.github.zabuzard.prototojson/prototojson) [![Java](https://img.shields.io/badge/Java-11%2B-ff696c)](https://img.shields.io/badge/Java-11%2B-ff696c) [![license](https://img.shields.io/github/license/Zabuzard/ProtoToJson)](https://img.shields.io/github/license/Zabuzard/ProtoToJson)
+[![codefactor](https://img.shields.io/codefactor/grade/github/Zabuzard/ProtoToJson)](https://www.codefactor.io/repository/github/zabuzard/prototojson)
+[![maven-central](https://img.shields.io/maven-central/v/io.github.zabuzard.prototojson/prototojson)](https://search.maven.org/search?q=g:io.github.zabuzard.prototojson)
+[![javadoc](https://javadoc.io/badge2/io.github.zabuzard.prototojson/prototojson/javadoc.svg?style=flat&color=AA82FF)](https://javadoc.io/doc/io.github.zabuzard.prototojson/prototojson)
+![Java](https://img.shields.io/badge/Java-11%2B-ff696c)
+[![license](https://img.shields.io/github/license/Zabuzard/ProtoToJson)](https://github.com/Zabuzard/ProtoToJson/blob/master/LICENSE)
 
 ProtoToJson is a tool to decode and view binary protobuf messages
 as readable JSON.
