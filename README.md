@@ -29,12 +29,12 @@ Maven:
 </dependency>
 ```
 
-Jar downloads are available from the [release section](https://github.com/ZabuzaW/ProtoToJson/releases).
+Jar downloads are available from the [release section](https://github.com/Zabuzard/ProtoToJson/releases).
 
 # Documentation
 
 * [API Javadoc](https://javadoc.io/doc/io.github.zabuzard.prototojson/prototojson)
-  or alternatively from the [release section](https://github.com/ZabuzaW/ProtoToJson/releases)
+  or alternatively from the [release section](https://github.com/Zabuzard/ProtoToJson/releases)
 
 # Descriptor cache
 
